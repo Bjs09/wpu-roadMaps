@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 - Java
+  mempelajari syntc java
+  salin source code ke GitHUb
 - Python
 - Androit Studio
 - JavaScrip
