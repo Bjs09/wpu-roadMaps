@@ -1,4 +1,5 @@
 WPU ROADMAPS
-- konsisten mempelajari tutorial bahsa pemrograman
+- konsisten mempelajari tutorial bahasa pemrograman
 - membuajt platfoam untuk pengelolaan data pembelajran
 - membuat forum diskusi
+- kolaborasi dengan lebih banyak expert
